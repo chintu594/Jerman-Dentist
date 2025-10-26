@@ -5,6 +5,12 @@ A responsive dental clinic website built using **HTML, CSS, and JavaScript**.
 ## 🌐 Live Preview
 👉 [Visit Website](https://chintu594.github.io/Jerman-Dentist/)
 
+## 👨‍💻 Author
+**Chintu594**  
+- GitHub: [@chintu594](https://github.com/chintu594)
+- Email: chintumewara816@gmail.com
+- Phone: 9983554529
+
 ## 🧩 Features
 - Responsive design
 - Modern UI layout
