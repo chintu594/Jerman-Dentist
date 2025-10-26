@@ -20,11 +20,6 @@ A responsive dental clinic website built using **HTML, CSS, and JavaScript**.
 (Add a screenshot later)
 
 ## 📁 Folder Structure
-.
-└── 📁 Jerman-Dentist/
-    ├─ css
-    ├─ fonts
-    ├─ images
-    ├─ js
-    ├─ index.html
-    └─ README.md
+.<img width="165" height="176" alt="graph" src="https://github.com/user-attachments/assets/19cc5242-9ab0-488a-8ea9-86c43af58df7" />
+
+
