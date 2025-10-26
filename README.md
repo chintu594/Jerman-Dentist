@@ -8,6 +8,7 @@ A responsive dental clinic website built using **HTML, CSS, and JavaScript**.
 ## 👨‍💻 Author
 **Chintu594**  
 - GitHub: [@chintu594](https://github.com/chintu594)
+- Linked in: 
 - Email: chintumewara816@gmail.com
 - Phone: 9983554529
 
