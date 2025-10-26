@@ -17,7 +17,8 @@ A responsive dental clinic website built using **HTML, CSS, and JavaScript**.
 - JavaScript
 
 ## 📸 Screenshots
-(Add a screenshot later)
+![Uploading Dentist-Specialist.png…]()
+
 
 ## 📁 Folder Structure
 .<img width="165" height="176" alt="graph" src="https://github.com/user-attachments/assets/19cc5242-9ab0-488a-8ea9-86c43af58df7" />
