@@ -23,12 +23,8 @@ A responsive dental clinic website built using **HTML, CSS, and JavaScript**.
 - CSS3
 - JavaScript
 
-## 📸 Screenshots
-<img width="1366" height="2908" alt="Dentist-Specialist" src="https://github.com/user-attachments/assets/819c5319-48a5-4f8a-80b8-995a154223b8" />
-
-
-
 ## 📁 Folder Structure
 .<img width="165" height="176" alt="graph" src="https://github.com/user-attachments/assets/19cc5242-9ab0-488a-8ea9-86c43af58df7" />
 
-
+## 📸 Screenshots
+<img width="1366" height="2908" alt="Dentist-Specialist" src="https://github.com/user-attachments/assets/819c5319-48a5-4f8a-80b8-995a154223b8" />
